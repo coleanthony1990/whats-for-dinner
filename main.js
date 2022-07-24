@@ -60,7 +60,7 @@ var randomDessert = desserts[getRandomIndex(desserts)];
 
 //eventlisteners
 cook.addEventListener("click", letsCook);
-clear.addEventListener("click", clearButton)
+//clear.addEventListener("click", clearButton)
 //funtions
 function getRandomIndex(array) {
   return Math.floor(Math.random() * array.length);
@@ -88,7 +88,4 @@ function letsCook() {
     <h2>${randomSide}, ${randomMains}, and ${randomDessert}! </h2>
     <button class='clear' type='button'>CLEAR</button>`
   }
-}
-function clearButton() {
-  reload()
 }
