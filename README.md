@@ -1,23 +1,34 @@
-# What's for Dinner?
+# What's For Dinner
 
-## Overview
+## Table of Contents
+---
+- [Introduction](#Introduction)
+- [Resources](#Resources)
+- [Technologies](#Technologies)
+- [The Game](#Playing-Tic-Tac-Toe)
+- [Screen Shots](#Screen-Shots)
+- [Future Additions](#Future-Additions)
+- [Reflections](#Reflections)
+- [Project Spec](#Project-Spec)
+---
+## Introduction
 
-What's for dinner? The ultimate question. You will be building an app that helps users choose a recipe and put together meals. 
+This application allows the user to pick a side dish, main, dessert, or all 3 to produce a random dish or entire meal. Made by me: ([Cole Anthony](https://www.linkedin.com/in/cole-edwin-anthony/)) The application can be accessed [here]([https://coleanthony1990.github.io/tic-tac-toe/](https://coleanthony1990.github.io/whats-for-dinner/))
 
-This Solo Challenge gives students and instructors the opportunity to get a pulse on where you are with the foundational concepts of Module 1 curriculum. Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but any other code base should not be referenced. Instructors will be able to use your work, both completion of functionality and code quality, to determine where you stand and if you are behind for this point in the module, provide supports to intervene.
+## Resources
+- Resources include [MDN](https://developer.mozilla.org/en-US/) and [Stack Overflow](https://stackoverflow.com/).
 
-The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/dinner.html). 
-
-## Learning Goals
-
-- Gain experience building an application that utilizes HTML, CSS and JavaScript
-- Write HTML and CSS to match a provided comp
-- Understand how to listen to and respond to user events
-- Individualize your programming skill set
-
-## Setup
-
-- Fork this project to your own Github account
-- Clone the repository to your local machine
-- `cd` into the project
-- Read this README thoroughly, then begin working!
+## Technologies
+- HTML
+- CSS
+- Javascript
+## Using the app
+Users can use this app by choosing 1 of 4 options from the square on the left side. When the user clicks "Submit" after they have selected their option, they will be presented with a random dish or 3 dishes(if they chose "entire meal") in the box on the right side.
+## Screen Shots
+![Screen Shot 2022-08-10 at 1 59 59 PM](https://user-images.githubusercontent.com/103971359/184008947-64c7671e-4225-4c3d-a795-9e1cef6b88c8.png)
+## Future Additions
+I would like to make the 'clear' button work properly and add more to the options for meals.
+## Reflections
+The CSS was the most challenging as there is a lot to learn about it. The 'clear' button was also difficult but I believe I know how to do it now and will add it.
+## Project Spec
+The project spec and rubric is linked [here](https://frontend.turing.edu/projects/module-1/dinner.html).
